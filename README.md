@@ -66,14 +66,6 @@ jupyter notebook
 * Compute and visualize death rates over time
 * Optional choropleth map to visualize cases globally
 
-## 🧠 Insights
-
-Sample insights you might include in your notebook:
-
-* 📈 *India experienced a steep second wave in mid-2021.*
-* 💉 *The U.S. had a faster vaccine rollout compared to Kenya.*
-* ⚠️ *Death rates peaked during major case surges.*
-
 ## 📎 Project Structure
 
 ```text
