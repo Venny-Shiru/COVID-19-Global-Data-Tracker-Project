@@ -71,19 +71,3 @@ jupyter notebook
 * 📈 *India experienced a steep second wave in mid-2021.*
 * 💉 *The U.S. had a faster vaccine rollout compared to Kenya.*
 * ⚠️ *Death rates peaked during major case surges.*
-
-## 📎 Project Structure
-
-```text
-COVID19_Global_Data_Tracker/
-│
-├── COVID19_Global_Data_Tracker.ipynb   # Main analysis notebook
-├── owid-covid-data.csv                 # COVID-19 dataset (not included in repo)
-├── README.md                           # This file
-```
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
